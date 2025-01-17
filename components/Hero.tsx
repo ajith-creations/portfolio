@@ -60,7 +60,7 @@ const Hero = () => {
             Hi! I&apos;m Ajith, a Passionate Social Sector Wizard.
           </p>
 
-          <a href="https://drive.google.com/file/d/11ccNR91ZRgM4J20wTcnv4R5N9D0A6kTC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1APGUGm5kP_6xhibyTyfigQUP1uHLEfFH/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <MagicButton
               title="View My CV"
               icon={<FaLocationArrow />}
